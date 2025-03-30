@@ -1,0 +1,19 @@
+.header {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+.header__logo {
+  width: 254.84px;
+  height: 68.94px;
+}
+
+.header__lead {
+  margin-top: 92px;
+  margin-bottom: 92px;
+}
